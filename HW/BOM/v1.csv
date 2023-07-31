@@ -1,0 +1,15 @@
+"Part";"Value";"Device";"Package";"Description";"AVAILABILITY";"DESCRIPTION";"DK_PN";"MF";"MP";"PACKAGE";"POPULARITY";"PRICE";"PURCHASE-URL";"SPICEPREFIX";
+"BT1";"BK-912-TR";"BK-912-TR";"MPD_BK-912-TR";"Holder Coin Cell 20mm Smd Check availability";"In Stock";" Battery Retainer Coin, 20.0mm 1 Cell SMD (SMT) Tab ";"BK-912-TR-ND";"MPD (Memory";"BK-912-TR";"None";"";"None";"https://pricing.snapeda.com/search/part/BK-912-TR/?ref=eda";"";
+"C1";"0.01uF";"C-EUC0603";"C0603";"CAPACITOR, European symbol";"";"";"1292-1384-1-ND";"";"";"";"73";"";"";"C";
+"C2";"47UF";"C-EUC0603";"C0603";"CAPACITOR, European symbol";"";"";"1276-CL10A476MQ8QRNCCT-ND";"";"";"";"73";"";"";"C";
+"C3";"";"C-EUC0603";"C0603";"CAPACITOR, European symbol";"";"";"";"";"";"";"73";"";"";"C";
+"LED2";"597-2401-407F";"597-2401-407F";"LED_597-2401-407F";"LED RIGHT ANGLE Yellow SMD 1208 Check availability";"In Stock";" Yellow - LED Indication - Discrete 2.2V 2-SMD, No Lead ";"350-2944-1-ND";"Dialight";"597-2401-407F";"SMD-2 Dialight";"";"None";"https://pricing.snapeda.com/search/part/597-2401-407F/?ref=eda";"";
+"LED3";"597-2401-407F";"597-2401-407F";"LED_597-2401-407F";"LED RIGHT ANGLE Yellow SMD 1208 Check availability";"In Stock";" Yellow - LED Indication - Discrete 2.2V 2-SMD, No Lead ";"350-2944-1-ND";"Dialight";"597-2401-407F";"SMD-2 Dialight";"";"None";"https://pricing.snapeda.com/search/part/597-2401-407F/?ref=eda";"";
+"LED4";"XZM2CYK45WT-9";"XZM2CYK45WT-9";"XZM2CYK45WT";"XZM2CYK45WTSunLED Reverse Mount -  Datasheet";"";"";"1497-1335-2-ND";"";"";"";"";"";"";"";
+"R1";"590K";"R-US_R0603";"R0603";"RESISTOR, American symbol";"";"";"311-590KHRCT-ND";"";"";"";"77";"";"";"R";
+"R2";"1Mega";"R-US_R0603";"R0603";"RESISTOR, American symbol";"";"";"RMCF0603FG1M00CT-ND";"";"";"";"77";"";"";"R";
+"R3";"";"R-US_R0603";"R0603";"RESISTOR, American symbol";"";"";"";"";"";"";"77";"";"";"R";
+"R4";"";"R-US_R0603";"R0603";"RESISTOR, American symbol";"";"";"";"";"";"";"77";"";"";"R";
+"R5";"";"R-US_R0603";"R0603";"RESISTOR, American symbol";"";"";"";"";"";"";"77";"";"";"R";
+"SW1";"TM1000Q";"TM1000Q";"SIP750W46P254L1400H1010Q3";"TM1000 - Datasheet";"";"";"EG4917CT-ND";"";"";"";"";"";"";"";
+"U1";"ICM7555CBAZ";"ICM7555CBAZ";"SOIC127P600X175-8N";"CMOS RC timers Check availability";"In Stock";" 555 Type, Timer/Oscillator (Single) IC 1MHz 8-SOIC ";"ICM7555CBAZ-ND";"Renesas Electronics";"ICM7555CBAZ";"SOIC-8 Intersil";"";"None";"https://pricing.snapeda.com/search/part/ICM7555CBAZ/?ref=eda";"";
